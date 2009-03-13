@@ -57,4 +57,22 @@ http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP09014
 * Suggestions to generate critical mass
   * Every journalist I know thinks Digg is awesome, because they can self-promote 
   * Give the people a platform that allows them to self-promote
-  * 
+  * It takes a long time... Craigslist took 10-15 years now they make $100 million/year, content as a loss-leader into jobs listings
+  * Digg -- made $8/million in the first 3/4s of last year
+  * Customer site can be a "tip of the spear" for a B2B business
+  * Google wants you to search on hawaii vacations, but seraching on your name is a loss-leader
+  * Content gets better the focused the community is -- microcommunities and Google serves as aggregator via search
+  * Firehoses like twitter will probably be broke up, imagine a site for each #hash tag
+* PepsiCo - what/how have social technologies where audience is my employees
+  * Let your users not get fired
+  * Have the CEO do stuff
+
+## My takeaways
+* Ad-supported monetization is tough unless you've got targeted audience and/or a good sales staff
+* Invest early in user filtering/promotion to weed the cream from the crap
+* Pair that with efforts to build an engaged, self-policing community, they have a vested interest in keeping the site interesting and fun
+* UGC may be a good loss leader to drive audience to your more profitable content
+* Despite the focus on the user, individuals matter less than the collective
+* Transparency and tone are key
+* Make your platform easily enable user self promotion
+* Niche audiences are easier to monetize, easier to keep "in control", and easier to consume, yet revenues will be smaller -- may auger for more content-networks
