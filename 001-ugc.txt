@@ -1,2 +1,60 @@
 # User Generated Content: State of the Union
+http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901401
 
+* Between 2008 and 2009 all the new sites on top 10 list are UGC -- eBay, Wikimedia, Facebook, Yahoo Sites
+* Two problems with audience -- How to get folks to participate? How do you deal w/participation?
+  * Then how do you monetize it
+* News & Reference today, but what's next
+* IncSpring -- Designers upload fake brands/products.
+  * Reverse market -- comapnies come to look for logos/brands that they buy
+* Mosso guy -- UGC creates huge volumes of content that you want to store/manage as cheaply as you can
+* 2 years == 10 years on the Internet
+* "How are we all going to get paid?"
+  * Advertising -- YouTube, Facebook
+  * Rackspace works with the smaller folks - hot/not
+    * Create an auction model where the best UGC bubbles up to the top -- Digg, eBay, etc.
+  * Reality TV - "everyday people"/funniest videos reducing costs of TV production
+  * Sites like Gracenote/IMDB can't exist without UGC
+  * Which sites will succeed -- those that take in and monetize or those that can't exist w/out UGC
+  * LinkedIn - taking in $4 million in ad revenue
+  * When your using a free service, users expect that the company will make money off it somehow
+  * Looking at "let's get rich together" model -- cmpany and users get paid
+  * Individual contribution isn't as valuable as the collective
+* Users suck
+  * "Fucking great campaign #skittles" / Skittles homepage
+  * One day later the new home page goes down
+  * You get a "mob mentality" -- all threadless shirts are alike, Digg users like/hate certain topics
+  * Maybe join the unwieldly mob that appeals to you
+  * How do I keep the riffraff from destroying my site?
+    * With any UGC, they'll figure out the system
+    * Takes people to monitor
+    * IncSpring has a strong approval policy (open posting lasted about a week)
+    * Mob has a general self interest in keeping the site a fun and interesting place
+    * NYTimes -- Opera forum ran itself, Middle East forum was "a mess" yet with a moderator there were still big ideas being discussed
+    * Craiglist -- highly positive brand image, yet 50% of hits are for prostitution so personal branding works
+    * "Bitching" is the killer application for the Internet
+    * Digg -- used to resize window to avoid seeing content, but added rating system and automatic threshold so crowd-voted "good" content appears
+    * Get your audience rating your UGC content as soon as possible, downplay urgency
+* What structure do you put in place w/UGC so that it's not "mob rule"?
+  * Invest early on in user filtering
+  * Set the tone early in the game
+  * Put as much data structure as you can in place to 
+  * /. karma, Digg ratings, Open Directory moderators can bless lower moderators who can bless even lower moderators
+  * THe more transparent you are the harder it is to game the system
+  * Twitter -- only engage with people you know, makes it difficult to spam
+    * Compare MySpace (geocities) to Facebook where everything has to be through friends
+  * Noone out there is flaw free
+  * Social software is software that can be spamed -- first virus developer
+  * As long as you have an engaged community, they'll tell you what needs to be taken down
+* Whats strategy for attracting the really good UGC to your site
+  * FB / MySpace has to worry about that
+  * Gracenote / IMDB is about the data blow off from the users, so less of an issue
+  * Saleable UGC content vs. I just want a bunch of eyeballs
+ * Is the term UGC too broad these days?
+   * Worst is better :-) UGC means something to the audience at SXSW but "Communicty Curated Content" doesn't click
+   * Mosso guy hates the term cloud computing, but its what people know
+   * UGC takes the humanity out of the actual content
+* Suggestions to generate critical mass
+  * Every journalist I know thinks Digg is awesome, because they can self-promote 
+  * Give the people a platform that allows them to self-promote
+  * 
