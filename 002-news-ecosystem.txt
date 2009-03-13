@@ -1,4 +1,96 @@
 ## The Ecosystem of News
 http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901396
 
-* 
+* "Old Growth Media"
+* Used to wait every 3 weeks outside a bookstore for the latest issue of MacWorld (b/c subscriptions arrived a few days later)
+* What was life like before the web
+* If you wanted news on the Mac landscape, there was only one channel available -- MacWorld
+* Even if you waited for the mag, you'd get the news from there a month or two late b/c of the long lead times of magazines
+* Then came Compuserve -- MacWeek was uploading articles every Friday night at 6 p.m. (nerd appointment TV)
+* Wired Magazine launches
+* Web arrives -- MacInTouch
+* Salon adds tech critics
+* Apple launches Web site -- can get news directly from the source ASAP
+* Now we have to-the-second thanks to live blogging, in-depth tech from ars.technical, Gruber's deep analysis of UI design
+* David Pogue and Walt Mossberg
+* More E.O. Wilson now than McLuhan --- ecosystem now
+* That makes it much more difficult to predict where it's going to go
+* Mac news in 1987 was a barren desert, today it's a thriving rain forest
+* 2 worst case scenarios
+  * Newspapers will disappear as businesses
+  * That crucial information will disappear with them
+* War reporters and investigative journalists are the big concerns
+  * Will bloggers switch PJs for Baghdad bureau
+* New ecosystem of investigative journalism is in it's infancy -- by both non and for profits
+* Ecologists seek out old growth forests
+* Technology journalism is the "old growth forest" of the Web
+  * Web covers technology first b/c the people using it first were interested in it more than school boards or NFL
+* Compare 1992 election -- NYT, Newsweek, Crossfire, New Republic, New Yorker
+* 2008 election -- TPM, Politico, Daily Kos, Andew Sullivan, HuffPo, fivethirtyeight.com, plus information directly from the candidates
+* Imagine 1992 coverage of Race speech in Philly -- CNN might have aired live, no fox news or MSNBC back then, otherwise 1 minute sound bite on nightly news
+* Old growth complained "Parasitic" -- bloggers just linked to traditional media
+* "Clinging to guns and religion" -- quote originated with HuffPo, not old growth
+* We lived in a desert disguised as a rainforest
+* Claim loss of a newspaper biggest damage is the local coverage -- but it's probably going to look like 87s MacWorld
+* City section of NYTimes has 2-3 articles he's interested in, but in his neighborhood there's probably 20 stories -- 2 muggings, deli opening, etc.
+* Economic model of NYTimes can't support long tail coverage
+* Standards about what good local coverage are are going to improve
+* 5 years from now if I don't get an alert when a mugging happens within 3 blocks of my house and I don't get an alert in 3 hours or less, something will be broken
+* More content -- info, analysis, precision, niches
+* Investigative and international reporting probably won't thrive in this
+* But it may free up traditional reporters to cover those areas, while they scoop up the rest
+* Jeff Jarvis -- Do what you do best and link to the rest
+* It is far more complicated to navigate this world than it is your morning newspaper
+* A lot more noise -- but you have to be a savvy information navigator
+* Let's say we can't ask ave. user to do that
+  * They need an authoritative guide
+  * A brand known for integrity and a trained staff of editors, where would we find that :-)
+  * newspaper.com audience is growing faster than print audience is shrinking
+  * Judged by aud. interest -- newspapers have never been more relevant
+  * All the news that's fit to link
+  * Prof journalists -- Prof Bloggers -- Non-profit journ
+  * Amateur Bloggers -- Direct Events -- Public Data APIs
+  * News (above) feeds into Commentary: Pundints/Columnists -- Bloggers -- Scholars 
+  * Curation -- Social Media (link sharing via Twitter) -- Professional Editors -- Aggregators -- Group Filters (digg)
+  * Distribution: Traditional Media (newspaper.coms) -- Aggregators (HuffPo) -- Viral Word of Mouth (FB feed)
+  * Does this model have flaws -- of course
+  * Is it better than the model we've lived with -- despite it's flaws,yes
+* Newspaper industry is ugly and it's going to get uglier
+* Should've been a 10 year evolutionary process, paper/ads slowly transitioning
+* Process been compressed into 2 years
+* Bad b/c of the human cost, and it'll distract us from the long term view (too busy trying to keep the old model alive)
+
+* Guy from Seattle (no news is bad news project):
+  * "Somebody has to be paid to do this effectively" -- what's the business model
+  * In this economy who's going to put the money down to invest in the transition
+  * Biz model talks reminds SJ of Web talk in mid-to-late 90s -- saying that ads will come online b/c of measurability
+  * In the same situation with local advertising, they need geographic targeting locally and locally-nationwide (hipster neighborhoods for a natl chain)
+  * There'll be an ecosystem of advertising neighborhoods
+  * It will not be the fat margins of old
+  * Consumers aren't ready for the switch from print to digital ecosystem
+  
+* Joan Reeves, Missouri Journalism Reynold Institute
+  * What newspapers have in average correctness, the blogosphere is making up in terms of speed to correct initial mistakes
+  * Had a Kindle for two weeks -- paying for stuff I used to get for free
+
+* Question about writing style constraint between "low brow" online and "high brow" traditional media
+  * Some things are getting shorter, but a lot is getting longer Lost is a 120 hour show
+  * Ave page length of books is getting larger
+  * It's not that culture is getting shorter or longer, it's both
+  * Google Book Search vs. Twitter
+  * 250 page book vs. Twittering about it (on tour) These are mortal enemies, right -- but it's an ecosystem, they have a niche where they succeed
+ 
+ * Enlightment's lack of structure -- Franklin and Aires (sp?) experimenting outside of a university -- compared with Web 2.0's free formity "Enlightenment 2.0"
+ 
+ * Newspapers will have staffs, smaller, but cutting the costs of print is probably their biggest savings
+   * HuffPo and others will have to figure out a model where they pay their content creators
+   * Thinks ad networks are the future (decentralizing effect fits with Web's decentralizing nature)
+   
+ * What happens when filters are so good, you only see the news you want?
+   * Blogosphere is providing SJ the "really did not know I wanted to see, but I know I want to see it" and not the NYTimes -- BoingBoing for SJ
+   * If surprise is what you are seeking out, the Web is the greatest provider of serendipity in the history of media
+   * Newspapers old model forced people into being surprised (on your way to Sports your surprised by a coup in Africa) -- people think they don't like to be surprised, but they do
+ 
+ 
+ ##My takeaways
+ 
