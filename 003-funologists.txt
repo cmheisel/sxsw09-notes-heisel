@@ -1,0 +1,25 @@
+#Funologists Live & In Person: Guerilla Game Research
+http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0900867
+
+* Don't need tons of money to get good data
+* User observation: Cheap, fast, deadly
+* Everybody lies, so watch them use it instead
+* Can spend lots of money doing observation testing, or you can hide in the audience
+* Flow state: Difficulty on Y axis, Skill on X axis
+* Want your user to realize that they've had to pee for an hour :-)
+* Get video and make people watch it  (impose on your loved ones) -- Silverback or Morae
+* Video didn't make SL change orientation segment, but it did prompt the search for data that lead to the change
+* Read your own documentation -- if you have doc about it, that's your problem, fix it!
+* Watch the RSS -- Twitter, bloggers, etc. are talking about your product
+* "Your software here" + "sucks|ungh|problem|etc." in Google
+
+* Emotional Inquiry
+* Inspired by Don Norman's book about emotional design
+* Brought in existing users of mystery game -- given list of images from game, and list of words from compassionate communication Web site
+* Want to get as many people in your company "behind the one way mirror" -- that's success
+
+##My Takeaways
+* Usability doens't have to cost a lot of money
+* Do it early int he process
+* Adjust your technology to make it easy to change quickly, close to the feedback, to get even better test results
+
