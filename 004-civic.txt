@@ -1,6 +1,69 @@
 ##Civic Technologies and the Future of the Internet
 http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901120
 
+* Internet is civic technology -- like a bridge
+* ARPAnet founders didn't have much money, had to figure out how to bind together other networks
+* Led to kludges and shortcuts
+* Didn't have to make money off of it -- there is no business plan for the Internet infrastructure itself
+* There's no turnstiles -- monitoring and charging for the bits going around
+* Matured into the IETF
+* IETF is not a membership organization -- isn't this crazy, these are the people building the Internet with emoticons :-)
+* Internet Routing is civic -- it depeds on neighborliness
+* Not like FedEx (with accountability/blame) -- more like a Mosh pit sending a water battle back and forth
+* Not perfect routing, it's best effort routing
+* IBM '92 "You can't build a corp network out of TCP/IP"
+* Internet mascot is a bee -- too much fur to wing ratio, it can't fly (thx to millions of govt dollars we now know bees flap their wings really hard and fast)
+* Compuserve is the non-civic Internet
+* All of the content partners have to be cleared and approved by CS's biz dev process -- it doesn't depend on goodwill, it depends on contracts
+* ITU trying to build a "Next Generation Network" -- all built around bits knowing if they want to be sent and mechanisms to make sure they don't get sent
+* Internet had the "burning man moment" -- AOL brought in tourists like a cruise ship in a pristine island
+* Momment when civic technologies b/c so popular they have to deal with the catasrophe of their own success
+* You need a civic defense network -- Pakistan ISP (just one) blocks YouTube for non-pakistanis by messing with routing protocol
+* Northern American Network Operators Group (no longer for NAmerican's only) -- volunteers watching Internet for trouble distributes word via blogs/email to ISPs how to undo problem
+* NANOG is an informal group of people who are not formally chartered to do anything -- can't give them a raise or cut their pay
+* Wikipedia as civic technology -- dumbest idea ever, right? Idea was to pay experts to publish, wiki was staging area, backlog got so large that the staging became the live site (neat)
+* If you're a spammer why aren't you trying to change every page to an ad for rolex -- they are!
+* Wikipedia Administrators notice board (itself a wiki) -- add the problem to "The List"
+* Volunteers are reloading page and solving the problem -- Why? Massive govt grant to follow...
+* Wikipedia is 45 minutes away from utter and total disaster
+* Blogs -- goofy and informal and playful -- about cats (catsthatlooklikehitler.com)
+* But then it gets serious -- GlobalVoices, then that's getting picked up by BBC and ITC
+* And worth spaming -- Carnegie Mellon invents the captcha, for a while that works
+* PC is a civic technology but lacks a civic defense
+* w/in 2 years of introduction of Apple Computer -- VisiCalc is invented and biz is like "Holy Fucking Shit we need the spreadsheet"
+* "I would like an Apple I I please"
+* Apple has to do market research to figure out how they got so popular
+* Release a doorstop and Jobs expects the world, motived by fun and by money, to make it useful
+* Give a computer executable code and it runs it, no questions asked.
+* Vulnerability here -- what if someone gives you bad code -- who would want to do that? For 20 years no one did
+* At the time of the intro of the PC, there were appliance type machines that were the equivalent of Compuserve -- Brother smart typewriter, etc.
+* Defenses against this are very weak
+* Capn' Crunch Bosun Whistle -- turns out that if you cover one hole it emits a tone at exactly the right Hz to tell AT&Ts systems to give you a free long distance telephone call
+* Internet is exactly like AT&T -- channels that carry content also carry the security protocols
+* There's big and increasing pressure to move away from civic technologies
+* More locked down PCs - no more installing software
+* Trading them in for information appliances Tivo == Brother Smart Word Processor
+* Blackberries, mobile phones, the Kindle
+* Imagine if Gates had crippled Netscape b/c of an "undiscovered security flaw" -- never did it, yet Apple has with iPhone app store
+* Not just about phones -- this is where the PC is going if it's even left by the end of this innovation cycle
+* Not just devices -- Facebook Platform can yank app or charge you for making money (imagine if Gates charged Quicken for building it)
+* Custodian can be asked by regulators for something you might not want
+* Toaster --> Web 2.0 Toaster: Congrats, you received the spring update you get a third slot. Come back later, sorry there were problems we removed a slot. Next Wed, you come down and its making orange juice
+* You didn't buy anything -- you entered a breakfast oriented relationship with a service provider
+* Kindle text-to-speech issue
+* OnStar -- FBI asks OnStar to turn on mic as phone tap. They sue, and lose, overturned on thinnest of appeals
+* It's Orwellian -- at least Orwell had a screen you could see
+* Imagine phone mic turns on automatically -- all you think is your battery life isn't what it used to be
+* Tracking who went to ball game and who left part way through -- China mobile "Oh we're very good w/privacy we only give info to govt"
+* We are building non-civic technologies -- require no knowledge of citizen to enforce good or bad laws (Posses refusing to capture fugitive slaves, e.g.)
+* stopbadware.org / opennet initiative
+* Crowd sourcing the validty of code to avoid choice between anything goes of PC vs. Pinkertons of iPhone
+* Herdict.org -- social civic dimension to act of surfing the web (tells you what sites are blocked)
+* AmIBlockedOrNot.com
+* We help the nerds of NANOG w/out having to be nerds ourselves
+* Innocentive -- Distributed R&D with cash rewards
+* MTurk being used to solve captchas, or free porn by solving captchas
+* There was a time when it was perfectly rational to hitchhike -- now it's Craigslist RideShare board
 * 
 
 ##My takeaways
