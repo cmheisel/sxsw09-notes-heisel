@@ -67,7 +67,10 @@ http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP09011
 * 
 
 ##My takeaways
-* 
+* No matter how impossibly improv something seems, it has a high likelihood of working
+* Open systems without all sorts of controls seem implausible but there's a long track record of them working
+* Just as with a democracy it takes an engaged public to make it work -- but technologists can help by making it less technical to get involved
+* If not we end up like North Korea with solar-powered radios being balooned across the border (solar-powered radio == jailbreaked iPhone)
 
 ##Panel info
 Saturday, March 14th
