@@ -1,10 +1,78 @@
 # HOWTO: 149 Surprising Ways to Turbocharge Your Blog With Credibility!
 http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901308
 
-*
+* What we want to talk about has very little to do w/economic indicators
+* Not here to tell you what you should make, or what your ultimate goals should be
+* Assumptions
+  * All of you make things
+  * Care about things, verging on obsessions
+  * That you want to get better at
+  * Matters to have the credibility and respect of the people you admine
+  * Would not mind making a little bit of money, or finding an opportunity beyond self improvement aspects
+* "We don't make movies to make movies, we make money to make more movies" -- Walt Disney
+* You shouldn't care about Gruber, if he's not in your target audience
+  * And we both should be cool about each other not caring about you
+  * It's confidence to know what you want to say, and who you want to say it to
+* Topic X Voice (or Obession X Voice)
+  * Best non fiction comes from someone who can't stop thinking about a certain topic, a very specific aspect of the topic
+  * If you have a topic without voice -- you have reblogging without curation
+  * If you have voice w/out obsession -- commenting on the thai food they just had
+* Whatever your topic is try and be better at than 80% of the world
+  * Probably won't be, but that's OK, it's what to strive for
+  * Have a goal that you know in your mind you'll never reach -- but it makes you better
+  * If everything is what you want to do, then nothing is what you're doing
+* Mann -- always over the map
+  * Who do I want to delight?
+  * Is this something that (your hero) saw, would think is a piece of crap
+  * Think about your "ideal reader" or your "first reader"
+* If you want to reach a broad audience, that's fine -- reach the shit out of a broad audience
+  * But keep thinking about your ideal reader, if you hope (your hero) will find this article
+* WWDC announcement to 4,000 people who only want to write Obj-C, and they say here's the greatest thing about apps on iPhone -- write them in Web (let down)
+  * Phil Schiller runs into Gruber and says "I gotta disagree about the shit sandwhich thing" :-) -- but (his hero) read his post
+* "There's a lot people who go out and want to emulate the success of other people, and you try and copy Ted Koppel. But you know what they already have a Ted Koppel" -- Ira Glass
+* Instincts say if you want to write something you should write about something that someone is already enjoying
+  * Sci-fi crapflood after Star Wars from 1978-84 (aside from BSG)
+* Koppel was Koppel b/c of the Iranian hostage crisis
+  * Peter Jennings has 30 minutes to cover everything
+  * Koppel is obsessed about it, he says "what time is available" and they give him the 30 minutes in the late night 
+  * 30 minutes about the exact same topic _every_ night
+  * If you want to be Koppel, you'll need a red wig and a time machine
+* Are you copying the right thing when you emulate something else?
+  * 37Signals -- thing that's worth copying was the attitude they had: communication vs. ganntt charts
+  * Google -- a white page with 2 buttons will not make you the most profitable comapny in the world
+  * Zappos -- Getting an account on Twitter doesn't make you Zappos -- millions on customer care make you Zappos
+  * Social media isn't about what you have to say, it's having a tolerance for what people say about you
+    * Social media/SEO is a giant cabinet of sharp knives -- you can use them for good or evil
+* Freedom of the press belongs to those who can afford one
+  * Now everyone has a press -- BoingBoing was a 'zine
+  * $7/month hosting account and you can saturate your audience
+* Blog is not that great of a term
+  * From Gawker to Blogspot to corporate press releases w/a permalink
+  * It's not that we want for tools
+  * It's super easy to post
+* How do you know you should start a blog -- people keep telling you to shut up (or marry the topic)
+* It's not easy to make money blogging
+  * A lot of people are BSing
+  * The giant opportunities are not short term gaines -- CPMs/Page views -- it's the long term gains
+  * People that had tolerance for the ambiguity of how it'd play out have succeeded -- ancillary revenue streams make it in the long term
+  * Gruber: You'll get paid in attention -- but it has value and you'll be surprised at what happens when it builds up
+  * Don't have a blog about Star Wars, have a blog about Jawas -- or that one Jawa in that one scene
+  * In the world of Apple, you go to daringfireball -- what happened, what it means and what he thinks abou it
+    * How many people can do all 3 things?
+* Gruber: Got e-mail asking how he could do what Gruber did
+  1. Give away more stuff than you possibly think you should and make it easy to find
+  2. Have an eye open for 2ndary revenue streams
+  3. Don't go after profits that harm the reasons people like you
+* Mann: In 2007, talk at Google... talked about e-mail to people who really needed to hear about it (inbox zero)
+  * Check out Merlin Mann video -- 400,000 views
+  * Now people come ask him to talk to their companies -- vs. if he had said you have to pay a nickel to watch that video
+* Lizard brain idea of "how do I make a little money off of this"
+  * My ideas are so valuable that I'm not worry I'll run out of them -- I am not my RSS feed
+* Don't become so obsessed with the thing your determined to make money on
+  * 
 
 ## My takeaways
-*
+* 
 
 ## Panel info
 Saturday, March 14th
