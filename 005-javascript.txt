@@ -1,7 +1,63 @@
 # More Secrets of JavaScript Libraries
 http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901059
 
-* 
+* YUI Get & Loader
+  * JS loading blocks page render
+  * As js files increase, your blocking time increases
+  * Single file is best -- reduce HTTP requests
+  * But widgets and plugins have preqs and deps
+  * Sites are using multiple unrelated JS files
+  * Larger projects need multiple files for flexibility
+  * Most files are order dependent
+  * As dev, nice to be able to toggle between -min and -debug and -raw
+  * Handles prereqs w/out dupes -- YUI Get and Loader
+  * Does dynamic node creation to avoid I/O blocking
+  * Cross-domain data resource capability (sweet), as long as it's GET
+  * Loads anything -- CSS, JS, JSON, Urchin.js
+  * Easy hash to define resources
+  * Lazy loading
+  
+* Meta-Language Frameworks
+  * GWT, Pyjamas, Cappuccino (Obj-J into JS)
+  * Narrative JS -- allows for sleep() like calls
+  * Google Caja -- Turns JS into safer JS
+  * Cappuccino invents new syntax on top of Obj-C favorite syntax
+  * At cost of being distant from your runtime code
+  * Abstractions leak...
+  * Counter argument that all frameworks involve abstractions, we use abstractions despite their leakage
+  * The thicker the abstraction, the more the reward and the hassle
+  * Compare up-front vs. on-going costs
+  * We're "stuck" with Javascript
+ 
+* Real World Accessibility
+  * People with disabilities don't use my site -- that's like saying left handed or blue-eyed people don't use your site
+  * Adding A11y is way too hard and it will ruin my design -- Dojo, jQueryUI
+  * ARIA -- Accesible Rich Internet Applications, spec in W3C process
+  * Implemented in Firefox, IE8, Opera and Safari are developing
+  * Add role semantics into scripted UI elements
+  * Can tell screenreader "this is a screencontrol", or "this is the selected tab panel"
+  * Adds keyboard event handling: onClick != Enter key
+
+* Performance and Testing
+  * Typically measure execution within JS environment
+  * jQuery stack profiler -- looks for problematic methods and calls
+  * Problem is that time measurements w/in JS is problematic
+  * Windows JS only has a 15 ms resolution -- so sub 15 ms tasks can't be measured
+  * Firebug, Safari 4 Profiler, IE8 profiler
+  * FireUnit -- has a getProfile method
+  * Allows for complexity analysis -- lets you reduce call count which reduces complexity
+  * .remove() was fast but it called 2n+n^2 methods (as opposed to 5n or 3n)
+  * QUnit -- jQuery test frame work
+  * Do cost/benefit analysis on what browsers you support -- browsers with more market share get more time
+  * Cost of development == time spent on browser bugs
+  * IE6 costs higher than benefits
+  * JQuery has 11 browsers with 6 test suites, not including multiple platforms
+  * JS testing doesn't scale well
+  * TestSwarm -- Distributed network of doing automated network
+  * Suite into Swarm, various clients are doing the testing
+  * Scales up to manual testing -- users follow predefined steps, answer Yes/No questions which is pushed back into cloud
+  * TestSwarm.com -- opens at end of the month, incentives for top testers
+  * 
 
 ## My takeaways
 * 
