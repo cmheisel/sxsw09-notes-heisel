@@ -1,0 +1,20 @@
+# More Secrets of JavaScript Libraries
+http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901059
+
+* 
+
+## My takeaways
+* 
+
+
+## Panel info
+Saturday, March 14th
+
+11:30 am - 12:30 pm
+
+In a reprise from last year's popular panel - the JavaScript libraries authors are getting together again to impart their what they've learned from their experience in developing solid, world-class, JavaScript libraries. Covering everything from advanced aspects of the JavaScript language, to handling cross-browser issues, all the way up to packaging and distribution. A complete set of knowledge for a JavaScript developer.
+
+John Resig  Mozilla Corporation 
+Andrew Dupont  Prototype JavaScript Framework 
+Nate Koechley   Sr Engineer YUI  
+Becky Gibson   Web Accessibility Architect,   IBM 
