@@ -97,3 +97,14 @@ http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP09013
 * Focus on what roles in the ecosystem you want to own/play in: probably orig reporting, aggregation, pundits/columnists, social filtering, API consumption
 * Concentrate on being the builder of networks -- you'll get more of a cut on a much smaller pie (then print revs)
 * Aggregate the long tail -- by networks with existing local bloggers, creating your own local network of bloggers
+
+
+##Panel information
+
+Friday, March 13th
+
+3:30 pm - 4:30 pm
+
+It is now conventional wisdom that the newspaper as we have come to know it for last century is over, or will be in a matter of years. The question is whether we're going to spend our time grieving over the loss, or whether we're going to use this moment as an opportunity to invent something even better. We're inevitably moving from the "paper of record" model to a something more distributed, a news ecosystem, but that doesn't mean we can't consciously define the shape of that system. So let's figure out what values we want to preserve from the older newspaper paradigm, and what values we want to improve upon -- and then let's go build it!
+
+Steven Johnson  outside.in 
