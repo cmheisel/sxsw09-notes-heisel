@@ -60,7 +60,8 @@ http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP09010
   * 
 
 ## My takeaways
-* 
+* Investigate YUI loader/getter (same functionality in jQuery?)
+* Investigate profiling/performance testing for AJC javascript
 
 
 ## Panel info
