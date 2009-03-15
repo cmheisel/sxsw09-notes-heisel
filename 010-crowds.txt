@@ -1,6 +1,97 @@
 # Design for the Wisdom of Crowds
 
-* 
+* Book: "The Wisdom of the Crowds"
+* It doesn't mean if put a bunch of people in a room it does not make them smart
+* You have to work to enable the crowd to be smart
+* Francis Galton -- 1906 saw an Ox at lifestock fair, guess the weight of the ox and you win it's meat
+* Galton was an elitist, laughed b/c everyone was wrong -- the correct answer was 1,198 pounds
+* When he collected all the answers, the media guess was 1,208 pounds
+* Individually everyone is wrong, but collectively harnessed everyone is right
+* Most e-mailed stories page -- b/c a hierarchy of what the crowd considers the most important news
+* Lots of people are making little decisions that add up to something wise
+* How do you weigh that against YouTube (comic of people saying moon landing is fake b/c there's gravity)
+* Elements of wise crowds (screw up any one and the whole thing is messed up)
+  * Diversity -- wide variety of inputs
+  * Independence -- each person needs to be able to contribute indepent of anyone else (avoid groupthink)
+  * Decentralization -- No one is in charge
+  * Aggregation -- All the data comes into an aggregator
+* Online
+  * Small Simple Tasks
+    * Ask people to do too much -- a blank comment form is too complex a task, open petri dish where anything can grow (commenting is fine b/c it makes people feel good, but it's not a WoC)
+    * WoC works well when there is an answer
+    * Example: Hot or Not
+    * Threadless: Rate t-shirt design
+    * Assignment Zero (Wired + NewsAssignment): Went off the rails. "We're going to make magazine quality content from the crowd" "Ok everyone write stories"
+      * Crowd goes "uhhhh I don't know how to write stories"
+      * halfway through switch gears -- "Heres a list of people we wish we could interview about crowdsourcing", people add/rank the list
+      * Then they ask people to interview people on the list _and_ all of a sudden everyone does it
+      * Editors come in and turn it into magazine quality content
+  * Large Diverse Groups
+    * Shuttle disaster -- Group think
+    * Group think -- people in the crowd put the concerns of the group ahead of their own concerns
+    * Antidote is not to avoid groups, but to design system to encourage participation and new members to join
+    * Many communities increase barriers to entry over time
+    * Chevy Taho campaign
+      * Crowd could add text to pictures of car "Murder your entire family" "We paved the praries" "Global warming isn't a pretty SUV ad"
+      * Someone had to be saying "are you sure you want to do this?"
+  * Design for selfishness
+    * "This is about the commons, this beautify common area, and it's happy"
+    * Large groups don't participate unless they're getting something out of it -- attention, sense of release, saying something to the world
+    * Users asking "Is this worth my time?" "What do I get for participating?"
+    * That selfishness is incredibly important
+    * Threadless: "Submit an idea at a chance for friends, fame and $2,500"
+    * When linking on your web site, you weren't saying "Id like to make Google a billion dollar company"
+    * Flickr: Tagging so I can find my photos easier later
+   * Result aggregation
+     * We're often talking about ranking, numbers, votes, lists of winners/losers
+     * Scores create games
+     * Favrd -- Takes the "favorite" info from Twitter and tallies it up on a daily basis
+     * There's no public voting mechaism for Favrd, it's not Digging, it's monitoring what the crowd likes without asking them what they like
+   * Heisenberg problem
+     * Once we surface the leaderboard of a game, we create another motivation to participate
+     * Motivation is not to contribute positively to the game
+     * Flickr: Interestingness -- monitors behavior (commenting, favoriting, etc.) and adds up to a non-public number
+     * Had a page that showed 1-10 interesting photos -- created a game
+     * Created an incentive to try and figure out the interestingness algo and game the system (just like Google results)
+     * Started directing people to view of top X most interesting ordered by random from the last 7 days (randomness within a "best" pool avoids the gaming CMH)
+     * Threadless: Can vote for a week but do not display the results while the voting is going on (avoid group think)
+     * Poll first and then you submit to see the results
+   * Popularity does not have to rule
+     * Most popular thing is often not the best thing
+     * To avoid the game, turn the algo on its head
+     * Amazon: Product review page, on the left shows favorable review and on the right showing critical review (most helpful on both sides)
+     * Amazon: Histogram of reviews by stars
+   * Implicit vs. Explicit feedback
+     * Explicit feedback: Voting & Rating -- "We want you to make a decision now"
+     * How best to ask for feedback: "It depends" Powazek
+     * Never use more options than you think you need
+     * Never ask people to do more thinking than they have to (0-5 is more than thumbs up/thumbs down)
+       * Most 5 star systems == 3.5 and 2.5
+     * Implicit feedback
+       * Page views
+       * Searches
+       * Velocity -- how much is something changing
+       * Interestingness -- algo for monitoring all this stuff
+       * Sharing
+     * Get better data when you don't ask people the question
+   * Design matters
+     * Color & Shape: Kvetch.com dark original color scheme and the feedback was dark "I want to kill my teacher"
+       * Changed the design to soft colors and corners and overnight the participation changed
+       * Univ of British Columbia study: Asked people to perform tests, changing border color around the content. Blue groups did better on tests involving invention and imagination. Red groups did better on tests of recall and attention to detail.
+	 * Red is danger -- people get afraid and get very detail oriented
+	 * Blue is calming -- people loosen up and can be creative
+   * Putting it all together
+     * Brooklyn Musuem's Click Exhibition -- online gallery where people were asked to rate submissions, then their exertise in art
+     * Get Satisfaction -- "I like that idea", "Most helpful/popular post", implicit data feedback (number of replies, people on the issue, etc.), Mood indicator. Easier to know people are pissed off w/smiley face aggregation than reading all the comments
+  * Seeing things
+    * Grandma Powazek -- stopped making cucumber salad, she'd chop and then her hands hurt. Not that she was 80 and had arthritis.
+    * Brains are really good at taking diverse feedback and turning it into stories that we tell ourselves.
+    * If you take away some of the input, instead of our brains saying I don't have enough info, they work twice as hard to fill in the blanks to make a story that makes sense
+    * Fighter pilots in g-force machines: As brains get less and less oxy, they have vivid hallucinations with tiny bit of reality in it (arms pinned) <-- brains working to make a coherent story
+    * Online we are deprived of all the real world data -- facial expressions, body language, taste, touch, smell -- only a stream of text
+    * Brains fill it in with the byproduct of our own insecurities
+    * "Lacking control increase illusary pattern perception" -- study -- One group told they were right no matter what, one group told right/wrong randomly. Both groups shown photos of nothing: cloudy sky, static. In control group said "I don't see anything." Out of control group found meaning in chaos.
+    * Went back to out of control group, told them stop and spend 60 secs telling a story "what are you passionate about", "what did you do this morning". Shown images and saw nothing.
 
 ## My takeaways
 *
