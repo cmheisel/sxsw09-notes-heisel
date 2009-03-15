@@ -1,6 +1,23 @@
 # Sunday Keynote: Stephen Baker / Nate Silver Interview
 http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901392
 
+* Didn't have ambition to become a big political analysis
+* Was procrastinating on his other work, frustrated by CNN/NBC/FOX News get it wrong
+* They weren't using much impirical evidence to justify their predictions
+* He's not a big fan of polls -- they're poorly conducted and over promoted
+* Race -- shouldn't lump any racial group of voters together
+* Demographics is dead -- behavioral tribes are the new segments in Marketing/Advertising
+* Book: The Numerati
+* Infinite number of typologies with a large enough dataset you can find similar types and then predict
+* Most Americans don't think about politics issue by issue -- voters dont get enough credit for their sophistication
+* Baseball and politics: both have long "seasons"
+* MLB teams place too much emphasis on most recent year of performance, and too much emphasis on offense
+* Teams tend to underestimate how quickly players decline, bad with long contracts
+* Economic crash affects on voters: Haven't had a situation like tis in the modern era
+* People focus on recency, ignoring past recessions and depressions b/c it's not in the 10/20 year mental view
+* How do you compare 1932/1948 to now: Over the long run the volatility has decreased (lows higher and highs lower)
+* IBM tries to do similar prediction work with factory workers -- what are they worth in 3 years, 5 years, etc.
+* Poorly executed objective prediction is worse than a well executed subjective decision
 * 
 
 ## My takeways
