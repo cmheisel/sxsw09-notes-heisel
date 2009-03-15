@@ -1,0 +1,18 @@
+# Get Me Rewrite! Developing APIs and the Changing Face of News
+
+* 
+
+## My take aways
+*
+
+## Panel info
+Sunday, March 15th
+
+3:30 pm - 4:30 pm
+
+In the past year, several major media producers have rolled out APIs to open up and remix their content. This panel assembles several noted developers of media APIs to discuss their experiences with the process: the technical hurdles, the internal arguments, the surprising ways in which people have discovered new ways of looking at the news.
+
+Jacob Harris   Sr Software Architect,   The New York Times 
+Brad Stenger   Research Dir,   Wired.com 
+Daniel Jacobson   Dir of Application Dev,   National Public Radio 
+John Donovan   Founder,   Daylife 
