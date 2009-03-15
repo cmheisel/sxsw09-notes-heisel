@@ -94,7 +94,12 @@
     * Went back to out of control group, told them stop and spend 60 secs telling a story "what are you passionate about", "what did you do this morning". Shown images and saw nothing.
 
 ## My takeaways
-*
+* We shouldn't abandon free form commenting, but look to other WoC means to get good data
+* We'll have to spend more time and thought on the technology and design than we have before to get good data and aggregation
+* Meaning we'll be trading in staff costs for build/buy costs (build costs are upfront and amortized over the life of the product, buy can be just as expensive as staff in the long run but it's quicker to market, etc.)
+* The design will be more important (than it already is)
+* We're doing a poor job of leveraging our Explicit feedback (mostly b/c of technology issues which are all solvable)
+* We need to keep our eyes on simple tasks that have a selfish reward for our audience (avoid the temptation to think the crowd will help us out of our financial difficulties just because...)
 
 
 ## Panel Info
