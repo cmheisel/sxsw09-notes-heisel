@@ -1,6 +1,19 @@
 ## Neocartography: Mapping Design and Usability Evolved
 
-*
+* Default online state of mapping is red pins on Google maps
+* At Stamen try to get away from standard views of maps
+* Google base maps make it easy to quickly put content on the map, without having to worry about the underlying map
+* Google Maps have overtaken Mapquest in U.S.
+* Google Maps are road maps, designed to get you from point A to point B
+  * If you're trying to display non-point-to-point data, a different base map is called for b/c the street data is overkill
+  * Ask yourself what kind of data are you showing?
+  * http://www.cloudmade.com/
+* Google doesn't offer a way to modify the basemap
+  * So you probably have to go your own way/roll your own
+* Google has standardized the interface for maps
+  * Everyone knows how to use the Google standard controls, the click and drag, clicking on a point, etc.
+  * So preserve that interface when you're building a custom map
+* 
 
 ## My take aways
 *
