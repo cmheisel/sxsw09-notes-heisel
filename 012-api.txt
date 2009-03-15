@@ -1,9 +1,88 @@
 # Get Me Rewrite! Developing APIs and the Changing Face of News
 
+* Interactive newsroom tech group -- newsdrive applications
+* Went from a blog to a developer network
+* Jacobson -- in charge all digital media development (anything but radio)
+  * API created to support NPR music site
+  * Retrofitted rest of site, launched to public in July
+  * Story based API - all content they have the rights to distribute
+  * API drives the NPR Web site, but extend the API to other developers in the building
+    * Design group built SXSW Music site
+    * It's a time savings for them, lets folks use the API while devs work on improving the infrastructure
+* Simon -- API launched on Tuesday of last week
+  * API based on full text search, can retrieve full text of articles
+  * Every piece of content tagged on Guardian's Web site
+  * Allowing commercial usage of content through API
+  * For free you can use headlines, if you want text you have to join their ad network
+  * Data Blog: Publishing raw data online via Google spreadsheets (easy interface for journalists, free Google APIs to the data)
+  * Building a community of data wonks -- hoping to get leads on better sources of data
+  * ContentTagger.org -- Guardian tags driven by editorial decisions (so no tag for every MP in UK), site pulls up article and looks for tags on delcious and freebase (???)
+* DayLife
+  * API hit 10 - 20 million times a day
+  * Let's publishers sidestep their own CMS
+  * Use their API to make their own "edit of the Web" based on site whitelists
+* Stenger -- freelance journalist
+  * GaTech alum
+  * Organized Computation + Journalism conference
+  * Coming up in September
+* Where does the data come from?
+  * Split articles back into data -- easier said than done
+  * Simon - content API is from their Web site (manual updates from print overnight), Web meta-data is a manual process for them
+    * Driven by full-text search system
+    * Whitelist of contributors to the Guardian who they have license agreements with
+  * NPR - Most of the content they deal with is audio
+    * Most of the content created by a dedicated Web editorial staff and put into a "Create Once Publish Everwhere" CMS
+    * 40-50 data entry people
+  * Daylife
+    * Have to uniformize disparate content
+* What about metadata?
+  * Daylife - it's challenging. Derive metadata from the content
+    * Has disambiguation algo to tell people (Paris Hilton) from places (Paris, France)
+  * Guardian - tags applied when article is loaded in manaully by staff
+    * Tags are functional -- one tag = one page. CMS lets them "take over" a tagged page
+  * NYTimes - army of librarians
+  * NPR - meatdata standards problems for today, plus time since 1970
+  * Daylife -- we're at phase one of what will be a long evolution
+    * At some point the taxonimies will have to collapse into a "lingua franca"
+* Do you eat your own dog food?
+  * Stenger "Process and product are co-related and co-dependent"
+  * APIs are indicitative of a good product
+  * NPR ate their own dog food first, to make sure it tasted good
+    * None of NPR apps were developed by NPR
+  * Create's a lighter development process -- site changes outside development group
+* How do you make developers happy?
+  * Simon - Engaged with dev community early on, had internal hack day and invited external developers in (a FriendDA instead of an NDA)
+    * Commissioned developers they knew to write client APIs in Java, Ruby, etc.
+    * Strong alignment between UK geek community and Guardian readership
+    * Guardian doesn't dog food their API yet b/c they've been building it
+* How do you make the lawyers happy?
+  * Loosening control over the content a bit, but it's not giving away free reign
+  * NPR - Intention is not to shut down people, do have TOS
+    * Approach violators in a nice way -- we love what you're doing but we're a little concerned about X, so how can we work together
+  * Everyone has rate limits and attribution requirements
+* How do you make the accountants happy?
+  * NYT banking on link economy
+  * Guardian - ad network for commercial
+  * NPR - fighting the good fight
+  * Daylife - commercial
+* How are you measuring API usage?
+  * NPR - log crunching plus registration info (for api users)
+* How do you deal with bad data?
+  * NYT - no corrections policy for data like there is for news
+    * Just fixes it
+  * UK - bad data gets you sued
+    * Can cache for 24 hours, then must re-retrieve, if Guardian takes down article you don't want to still have it on the site
+* APIs vs. RSS feed
+  * Guardian went full content with RSS last fall
+* Mashery
+* Thought about crowdsourcing tagging of your data?
 * 
 
 ## My take aways
-*
+* If the cost is low enough, opening a headline/tease API up to the public might be worth it as an experiment in how much the Atlanta techie market wants to consume our product
+* The real ROI may be in decreasing the costs of creating new page/sections and providing for more automation
+* Long term the APIs will probably merge/become super/subsets of a common "news source API" b/c it won't scale to hit that many disparate APIs (category killers like Flickr can get by with a custom API).
+* 
 
 ## Panel info
 Sunday, March 15th
