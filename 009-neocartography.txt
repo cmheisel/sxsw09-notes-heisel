@@ -1,0 +1,16 @@
+## Neocartography: Mapping Design and Usability Evolved
+
+*
+
+## My take aways
+*
+
+## Panel info
+10:00 am - 11:00 am
+
+Designers are dropping maps into their applications with little concern for usability or design and users are getting "Google Map fatigue". We need to move beyond the simple pin-dropping and consider appropriate mapping interfaces. This panel will look at the current and emerging tools to provide compelling geographic interaction and visualization.
+
+Andrew Turner  Mapufacture 
+Michal Migurski   CTO,   Stamen Design 
+David Heyman  Axis Maps LLC 
+Elizabeth Windram   Senior User Experience Designer,   Google 
