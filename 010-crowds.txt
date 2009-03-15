@@ -1,0 +1,17 @@
+# Design for the Wisdom of Crowds
+
+* 
+
+## My takeaways
+*
+
+
+## Panel Info
+
+Sunday, March 15th
+
+11:30 am - 12:30 pm
+
+People are often dumb, so how can crowds be wise? James Surowiecki laid the groundwork in his book, "The Wisdom of Crowds." In this solo presentation, Derek Powazek will apply those ideas to the web, concentrating on how to design websites that empower people to work together to create something truly awesome.
+
+Derek Powazek   Grand Poo-Bah,   Powazek Productions 
