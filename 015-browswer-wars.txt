@@ -1,7 +1,52 @@
 # Browser Wars III: The Platform Wins
 http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0900700
 
-*
+* 3rd year of panel
+* 20th anniversary of the Web
+* Apple not speaking on panel, but there is a WebKit speaker
+* Brendan Eich invented javascript
+* What's in it for Google in the browser game?
+  * Google - how can we make Firefox more successfull, then looking at how to radically improve browsers through coopetition
+  * Didn't want to create another rendering engine -- Gecko and WebKit choices
+    * WebKit fast, but JS engine wasn't as fast
+    * Simpler code base
+    * Small memory footprint
+    * Gecko is a full platform for building apps
+    * Google cooperates with Apple
+* Declining market share of IE6 -- there's no single majority browsing engine (IE versions considered different)
+* Standards
+  * IE -- Silverlight is a lot like things inside HTML5
+  * What's your skin in the game and what's going on with Silverlight?
+    * It's easier to build a single implementation platform
+    * But it's difficult to spread that around like open standards
+  * There are scenarious where folks will use a closed-world system like Silverlight or Flash
+  * But to get out into the world you have to use standards
+  * It's harder to push forward the standards b/c it's not one company, but in the end it tends to win
+* Web is likely, if we continue to cooperate with the standards body, indistinguishable from Flash and Silverlight
+  * It's not a little harder, it's a lot harder
+  * Politics on top of cross-implementation specs
+* Standards are like sausages, you don't want to know how they're made
+* Talk about license of HTML5 license -- to make it an open source license
+  * How does it sit with MS to have standards developed like open source apps?
+    * Difference between licenses -- do whatever you want vs. viral
+    * Do you allow forking of HTML5?
+    * Probably true that a license wouldn't keep people from gravitating away from HTML5 if the spec was bad
+* If there is a type of war, it's about Javascript
+  * JS performance and how JS standards are built are an area of contention
+  * People are building great big piles of javascript -- ECMA trying to evolve rapidly
+  * Get everyone cooperating on material improvements
+  * ECMA is a fairly functional group -- trouble is writing the spec in an old untestable prose-filled form
+  * If everyone used the same engine -- you'd end up binding to the semantics of the code and not the semantics of the spec
+* Do you think V8 performance tests are fair?
+  * Benchmarks derived from a set of applications they wanted to make fast
+  * Javascript makes the browser a platform for applications -- Opera's speed wasn't noticed until dev community started using it as such
+  * Making a more efficient JS engine for mobile is key to battery life
+* Security & Privacy
+  * IE8 came out with their own clickjacking prevention
+  * XHR was IE's own thing
+  * Primary attribute of security is that you need to respond very quickly else you hang them out to dry
+  * Security is in two parts: Web security and protecting your OS from the Web
+  * 
 
 ## My take aways
 * 
