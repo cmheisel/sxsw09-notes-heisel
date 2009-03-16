@@ -1,0 +1,20 @@
+# Browser Wars III: The Platform Wins
+http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0900700
+
+*
+
+## My take aways
+* 
+
+## Panel info
+onday, March 16th
+
+11:30 am - 12:30 pm
+
+We're doing *so darn much* with the Web platform these days, from cross-domain access mechanisms to new drawing and graphics tools. But in the end, we still have to deal with different web browsers. This discussion brings the leads from Mozilla (Firefox), Microsoft (IE), Google (Chrome) and Opera (Opera) together for yet another incendiary discussion about the future of the web.
+
+Arun Ranganathan  Mozilla 
+Chris Wilson   Web Platform Architect,   Microsoft 
+Brendan Eich   CTO,   Mozilla Foundation 
+Charles McCathieNevile   Chief Standards Officer,   Opera Software 
+Darin Fisher   Software Engineer,   Google 
