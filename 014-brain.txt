@@ -1,6 +1,76 @@
 # Presenting Straight to the Brain
 
-*
+* Attention -- always being inundated for our attention
+* Stimuli everywhere, multitasking apps on our machine at work even
+* Mobile devices making it even worse
+* Presentations in the past just don't work in that kind of environment
+* Engage your audience, understand the psychology of your audience, and indentify different learning styles
+* No research that says that bullet points is better than any other way
+* What were doing with presentation software today we're doing b/c we're doing it
+* Cambridge Handbook of Multimedia Learning Edited by Richard E. Mayer 
+* Sender -> receiver assumption: If the audience didn't get it, it's there fault we gave it too them after all
+* 3 things can really happen
+  * No learning
+  * Fragmented learning
+  * Meaningful learning -- what you intended to teach, you did
+* Have to change the shape of our own assumptions about working
+* 3 parts of memory
+  * Sensory
+  * Long term memory
+  * Working memory -- 3 to 4 chunks of info in our attention at any one time
+* Info pipelines have turned into firehoses, but working memory hasn't changed
+* Have to thread the "eye of the needle" from sensory to long-term
+* Respect the limits of the mind
+* Sync the two channels (sensory and long term)
+  * Visual and verbal channel in synx
+* Guide attention -- "Here's what you should be paying attention to"
+* People are reading bullets at one speed, but presenter is speaking them at a different speed -- like a film dialog out of sync
+* Look at power point as a film strip -- beg/mid/end with a story line and an audio track that's sync'd with the visuals
+* Cognitive seduction
+  * Brain's are not your friend -- they think we're living in a cave
+  * Studying "this book is sooo not life threatening, but starvation is, how about a pizza?"
+  * Brain and mind are in an epic battle
+  * Can't tune brain's spam filter
+  * Chemistry -- that which you feel, anything that causes a physical reaction
+  * Cares about things that aren't expected
+  * Things that stand out
+  * Or to pay attention to people who look like they're afraid
+  * Someone having a joyful experience
+  * Tuned to pay attention to faces
+  * Mystery -- things that aren't fully formed -- what's the story
+* Doesn't care about
+  * Doesn't care about code
+  * Marry a compelling picture with code -- cheap trick
+  * Show an awful diagram that says "oh god that's bad" and then the code that solves it
+  * Talk to the brain, not the mind
+* Study on juror information retention -- after 3 days (ave trial length) they might retain 10%, visual 20%, with both in sync 65%
+  * Used early power point/slides to highlight information
+  * Started working with timelines
+  * PowerPoint doesn't have to be linear
+  * The "Ken Burns Effect" -- sync'd music with panning/zooming photos
+  * Animated car crash scene with stock photograph
+  * $100 offer if you don't learn what you're supposed to learn -- adds drama and makes everyone pay attention
+* Use visual as a visual prompt to yourself, to remind you what you want to say
+* Can't hear text and read text at the same time
+* Ignite talks -- 20 slides in 5 minutes or Larry Lessig 100 slides quickly
+* When is appropriate to use bullet points?
+  * Can we just keep doing what we're doing --- in film when is appropriate to put bullet points in film?
+  * Tell a story
+  * Though sometimes you want to show a collection of stuff, if you're trying not to convey each individual point
+  * If the bullet point has to wrap... it's too long
+* Can I help make you more interesting at your next dinner party?
+* If it's a handout, it's not a slide, don't ever use templates, use pop culture
+* Does it have an emotional resonance?
+* Determine 3 most important points, tell a story with it
+* How do we change audience expecations of PowerPoint culture?
+  * Tell them it's not based on research
+  * Do both, mix and mash styles
+* How to deal with different education levels && computer-based training?
+  * Sometime redundancy of messages actually works better than tailoring to individual learning styles
+* Interruptions? Presenations have to be portable b/c they're shared??
+  * Use power points notes page view to sync visual and verbal
+  * Instead of interruptions, make it a dialogue
+  * 
 
 ## My takeaways
 *
