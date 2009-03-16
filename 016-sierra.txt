@@ -1,0 +1,18 @@
+# Change Your World in 50 Minutes: Making Breakthroughs Happen
+http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901322
+
+* Laptopless for the panel, sorry for paucity of notes
+
+## My takeaways
+* Sierra Sliders: When trying to improve your product, don't increment, outflank the competition by adding "sliders" to their graphic eq (as opposed to just adjusting the nobs)
+  * http://livingcode.blogspot.com/2005/12/sierra-sliders.html
+* Outflank your competitors, when asking users about what they want from your product: "Don't ask your users what they want, ask other people's users."
+
+## Panel info
+Monday, March 16th
+
+3:30 pm - 4:30 pm
+
+Gain real-world ideas for markedly improved productivity from an industry expert and passionate speaker who always inspires SXSW audiences.
+
+Kathy Sierra  CreatingPassionateUsers 
