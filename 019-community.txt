@@ -1,9 +1,83 @@
 # Building Strong Online Communities
 
-*
+* BlogHer.com -- arose from "Where are the women at" blog post
+* Started as a community and grew into a large blogging network
+* Added comments to Fark.com in 2000 while learning SQL
+* Reddit - built b/c Slashdot just had too much to read
+* Ars.Technical -- got a lot of tech support e-mails and wanted to outsource it, wanted answers for questions that came up in their daily lives
+* How do you balance your vision of your comunity with the community's vision of itself
+* Have to take things with a grain of salt and measure it against whether it's a good idea && if it really is represenative of the community
+  * Complaints about links to a sports site, but had massive click-out tracking showing that folks liked the links
+  * Tyranny of well organized minorities -- combat with your intuition
+* Reddit and Ars do a lot of Twitter search tracking to find out the community of folks who aren't on their site
+  * Ars has a "complain about us forum" -- Ars drops in a bit, but your defenders will show up to defend you
+  * Are they dogpiling in a negative way -- yes, but the positive aspects are that there's an impression of caring (unless you're Dr. Evil)
+* Empower your community volunteers
+* How does community influence itself? Do you have moderation teams?
+  * Let your users police themselves -- Fark has a "Narc" button
+  * Sarcasm can look bad singly but in context they look fine
+  * Most have moderator groups that scan "narc" queues
+  * Reddit asked their users to create a Reddiquette page
+  * Creator of reddits got moderation privs and can assign them to folks, who can assign them to folks
+* Bad comments -- delete/shame/comment on it
+  * BlogHer -- pulls down, e-mailed why it was pulled
+  * Fark -- "This isn't capital punishment it's just unpublishing a comment" -- they can always put it back up if they were wrong
+  * It's not a first amendment issue, but some perceive it as censorship -- Ars community didn't like it when they removed
+  * Ars.Technical made list of cardinal and cumpulsory rules -- when they moderate they call out which rule
+    * http://arstechnica.com/old/content/2000/01/postguide.ars
+  * Ars uses volunteer moderators
+  * Ars tries to rehabilitate users with "bannable" offense -- 1 week ban, 1 month ban, permaban but door open to come back
+    * People don't re-register b/c they get really invested in their identity
+  * BlogHer has a similar set of rules and enforcement
+  * Fark treats it like a house party -- if you come over with your friends and shit on my floors and make fun of my decor, you're out
+* Mistakes people make
+  * Tell, rather than ask
+  * Don't listen to your community too much
+    * When they're hit with change, they all freak out, for a while, 2 weeks later they get used it
+    * But do tell them the redesign is coming
+    * Head moderator dropped into a thread and said "You'll get over it"
+    * Fark audience compiled a list of people who said they were never coming back, and then threw it in their face when they did
+    * But they did get good feedback about the white background being too bright
+  * There is a slient majority -- vast amount of traffic is not logged in and you'll never hear from them
+    * You have to weigh the needs of the hardcore with the majority
+    * You have to go with your gut for the majority
+  * If trouble continues beyond two weeks, they start investigating
+  * Do use surveys, but try and give away stuff to incent participation
+  * Don't open up too many forums/blogs too quickly b/c it makes your site look like a ghost town
+  * Let go of your ego -- it will get personal
+  * Don't be vindictive -- it's easy to get sucked into it and it's a huuuuge time waste
+* What are you looking for in a community manager?
+  * Patience
+  * Level headed
+  * Calm
+  * Multitask
+* Consider holding a conference -- sessions based on community feedback & community participation (they can be the speakers)
+  * Alternate revenue stream
+* Ars asked community what it wanted during the CondeNast acq. of Ars, changes in TOS bubbled up from community to lawyers
+* Anonymous comments?
+  * Fark - no and it's horse shit
+  * Ars: Registration boosts your signal-to-noise ratio, I'll trade 2 good comments for 14 fair-to-bad ones (knows he's leavng some users out b/c they won't register)
+* What do you do when you start to get passionate users?
+  * Put them to work, for free
+  * Ars -- all moderators are appointed from the community
+  * Shoot them an e-mail and talk to them like their human beings -- people's expectations are so low, they're automatically impressed
+* What do you think about moderating for quality?
+  * VentureHacks - moderates comments that don't move forward 
+  * Fark -- can't say "this sucks" can say "this sucks and here are 3 reasons why"
+  * Reddit -- look at the source code
+  * BlogHer -- not going to see the harm, it floats down and the community won't respond
+* How do you feel about commenting voting up/down as form of moderation?
+  * Reddit -- put arrows next to anything :-)
+  * Fark -- people are motivated by things other than "this is a good/bad comment"
+  * Ars -- turn into a referrundum on the person
+  * "What would have happened to Leonardo DaVinci if he could've been downarrowed" 
+* Do you find its worth posting article about why/how you should be a good digital citizen?
+  * BlogHer -- community manager occasionally reminds folks, esp as new members join
+* 
+
 
 ## MY take aways
-* 
+* How you deal with bad comments/commenters has to vary by the community -- Ars vs. Fark community responses
 
 ## Panel info
 Room A
