@@ -1,0 +1,32 @@
+# Cloud Computing: Defending the Undefinable
+http://sxsw.mobi/interactive/conference/panels_schedule/?action=show&id=IAP0901363
+
+* Amazon Cloud -- labeled risky bet
+* Cloud not really defined at the time
+* GAE focuses exclusively on Web applications
+* MS plans to move from .Net "down the stack" and "up the stack"
+* EC2 committed to global availability of the services, planning the other global regions
+* AppEngine built to handle different languages in different runtimes -- launched with Python, haven't announced the next language
+* Amazon needed the service internally
+* When AWS goes down, Amazon doesn't what's up? -- Amazon's apps are built around those instance failures, so should your apps
+* Amazon "just a customer" on EC2
+* Google -- only a few applications of their own running on GAE
+* Dats security -- 
+* Google -- programming languages and libraries will have to change to support these more-scalable but non-traditional pieces of the system (non-RDBMS, etc.)
+* Vendor lock in -- Amazon says they have the least lock in b/c it's a standard OS and API is just XML over HTTP
+* At this moment waiting from customers on what standardization would you like
+* 
+
+## My takeaways
+* 
+
+## Panel info
+Tuesday, March 17th
+
+10:00 am - 11:00 am
+
+The brave new world of cloud computing is radically changing how we build web applications. What is a platform, what is a service, and how will the future of web applications be built? More importantly, how do these various clouds compare, and what do the differences mean? Are they ready for your world-rockin' startup? In this panel, we'll get nerdy with technical details, you'll yell at us, and we'll argue why your app should already be in the cloud.
+
+Kevin Gibbs   Tech Lead & Mgr Google App Engine,   Google App Engine 
+Yousef Khalidi   Distinguished Engineer,   Microsoft 
+Werner Vogels   CTO,   Amazon.com 
