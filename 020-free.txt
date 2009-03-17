@@ -1,6 +1,37 @@
 # Rebuilding the World with Free Everything
 
-* 
+* Free as in freedom gave us the internet
+* Free beer is the subject of Chris's book
+* LinuxJournal - freemium content model
+* Originally was delayed by a month, but switched to freemium and simulataneous 
+* Got more traffic and were in the conversation
+* "If you're in the media business the whole reason to be free is to be in the conversation."
+* Subscribers get 30 day access to the print publication content, then it's unlocked and discovered on Digg/SEO
+* Print magazine is a different experience and different content -- Wired.com
+* Newspaper got Taylor's column for 7 day exclusive online and print, then he gets to post it to his blog
+* Taylor makes money off of sponsored placements (vs. display), and gets paid to move review products higher up in terms of his review time
+  * Negatively reviewed lots of the "paid for queue" folks
+* Costs of publishing online are about half of print, but the revenue is about 1/5th
+  * Either we become smaller to reduce costs
+  * Or find alt. revenue and bring our revenue up the 1/5th
+  * Happening w/TV, will happen with radio
+  * Wired's content costs are higher b/c their high end content -- sisters of Vogue, other CondeNast pubs
+* Freemium -- 2 version of product, one that's good enough for 10% of audience (pay) and the other that's good for 90% (free)
+* Patronage/tip jar?
+  * Patronage violates the economics model -- 1,000 true fans can pay for something (concern, book, etc.)
+* If your in the nosedive, is there a way to pull up a little bit?
+  * Charging for the Web site wouldn't have been a solution
+  * Free wasn't the problem here...
+  * The problem is the model itself -- "I don't get my news from the paper"
+  * Wired -- Reddit is their high margin user generated content (low cost) product, it helps fund the other products where costs are higher
+* Just b/c there's crummy stuff for free, doesn't mean people won't pay for premium
+* Our jobs are to add value to the Internet: CD subtracted value from the mp3, printed newspapers are 18 hours late and leave ink on your fingers
+* Micropayments -- has all the psych downsides of a price, with none of the financial benefits of a price
+  * Plus the process of paying is difficult
+* Notion of gift economy "goes w/out saying" -- we're talking about the business model b/c it's hard
+* Free content and distribution reduces the amount of work available?
+  * Screw printers
+  * We've created more jobs -- we're not "accredited professionals" but it's jobs
 
 ## My take aways
 *
